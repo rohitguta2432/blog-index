@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-13** — [Clerk vs Supabase Auth vs Better-Auth — Which to Pick for India MVP (2026)](https://rohitraj.tech/en/notes/clerk-vs-supabase-auth-vs-better-auth-india-2026) — At 10K monthly active users for an Indian MVP, Clerk Pro lands around ₹17,000/month, Supabase Auth is included in the same ₹2,100 Pro plan, 
 - **2026-05-12** — [Supabase vs Firebase for Indian MVPs in 2026 — Real Cost on 10K MAU](https://rohitraj.tech/en/notes/supabase-vs-firebase-india-mvp-2026) — Firebase tightened Spark-tier limits in Q1 2026 and Supabase opened the Mumbai ap-south-1 region in late 2025. At 10K MAU for an Indian MVP,
 - **2026-05-11** — [Self-Host n8n vs Zapier for Indian MVPs in 2026 — Real Cost on 50K Operations/Month](https://rohitraj.tech/en/notes/self-host-n8n-vs-zapier-cost-india-2026) — Self-hosted n8n costs ₹600/month on a $7 Hetzner VPS for 50K operations; Zapier Professional charges $73/month (~₹6,100) for the same volume
 - **2026-05-10** — [Razorpay vs Stripe for Indian MVPs in 2026 — Real Cost on a 100-User Month](https://rohitraj.tech/en/notes/razorpay-vs-stripe-india-mvp-2026) — Razorpay charges 2% on cards and 0% on UPI for Indian MVPs; Stripe charges 4.3% plus GST plus cross-border 3% on the same volume. Here is th
