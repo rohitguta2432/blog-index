@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-15** — [Pinecone vs Qdrant vs pgvector — Which Vector DB for India RAG MVP (2026)](https://rohitraj.tech/en/notes/pinecone-vs-qdrant-vs-pgvector-india-rag-mvp-2026) — At 500K embeddings for an Indian RAG MVP, Pinecone Standard costs ~₹6,200/month, self-hosted Qdrant runs ~₹1,400/month on Hetzner, and pgvec
 - **2026-05-14** — [Vercel vs Railway vs Hetzner — India MVP Hosting Cost & Latency (2026)](https://rohitraj.tech/en/notes/vercel-vs-railway-vs-hetzner-india-mvp-hosting-2026) — At 100K monthly requests for an Indian MVP, Vercel Pro lands at roughly ₹2,800/month, Railway hovers around ₹1,800/month, and a Hetzner CX22
 - **2026-05-13** — [Clerk vs Supabase Auth vs Better-Auth — Which to Pick for India MVP (2026)](https://rohitraj.tech/en/notes/clerk-vs-supabase-auth-vs-better-auth-india-2026) — At 10K monthly active users for an Indian MVP, Clerk Pro lands around ₹17,000/month, Supabase Auth is included in the same ₹2,100 Pro plan, 
 - **2026-05-12** — [Supabase vs Firebase for Indian MVPs in 2026 — Real Cost on 10K MAU](https://rohitraj.tech/en/notes/supabase-vs-firebase-india-mvp-2026) — Firebase tightened Spark-tier limits in Q1 2026 and Supabase opened the Mumbai ap-south-1 region in late 2025. At 10K MAU for an Indian MVP,
