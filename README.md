@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-16** — [Founding Engineer Equity 2026 — How Much to Negotiate (India)](https://rohitraj.tech/en/notes/founding-engineer-equity-percentage-2026) — Carta says 1.5% for hire #1, dropping to 0.33% by hire #5. Pave median is 1%. AI talent pressure pushed the floor up since March 2026. Hones
 - **2026-05-16** — [OpenAI vs Claude vs Gemini API — Real Cost for India MVP 2026](https://rohitraj.tech/en/notes/openai-vs-claude-vs-gemini-api-cost-india-mvp-2026) — A WhatsApp support bot doing 10K conversations a month costs roughly ₹1,250 on Gemini 2.5 Flash, ₹3,800 on GPT-5-mini, and ₹7,200 on Claude 
 - **2026-05-15** — [Pinecone vs Qdrant vs pgvector — Which Vector DB for India RAG MVP (2026)](https://rohitraj.tech/en/notes/pinecone-vs-qdrant-vs-pgvector-india-rag-mvp-2026) — At 500K embeddings for an Indian RAG MVP, Pinecone Standard costs ~₹6,200/month, self-hosted Qdrant runs ~₹1,400/month on Hetzner, and pgvec
 - **2026-05-14** — [Vercel vs Railway vs Hetzner — India MVP Hosting Cost & Latency (2026)](https://rohitraj.tech/en/notes/vercel-vs-railway-vs-hetzner-india-mvp-hosting-2026) — At 100K monthly requests for an Indian MVP, Vercel Pro lands at roughly ₹2,800/month, Railway hovers around ₹1,800/month, and a Hetzner CX22
