@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-17** — [LangGraph vs CrewAI vs AutoGen: Which Multi-Agent Framework Wins for India MVPs in 2026](https://rohitraj.tech/en/notes/langgraph-vs-crewai-vs-autogen-india-mvp-2026) — LangGraph, CrewAI, and AutoGen all promise the same thing — orchestrate three or four LLM calls into something that feels like an agent. Rea
 - **2026-05-17** — [Drizzle vs Prisma vs TypeORM — Real ORM Pick for India MVP 2026](https://rohitraj.tech/en/notes/drizzle-vs-prisma-vs-typeorm-india-mvp-2026) — A Postgres-backed Next.js MVP shipping in 6 weeks: Drizzle cold-starts in ~40ms on Vercel Mumbai, Prisma at ~280ms (after the engine binary 
 - **2026-05-16** — [Founding Engineer Equity 2026 — How Much to Negotiate (India)](https://rohitraj.tech/en/notes/founding-engineer-equity-percentage-2026) — Carta says 1.5% for hire #1, dropping to 0.33% by hire #5. Pave median is 1%. AI talent pressure pushed the floor up since March 2026. Hones
 - **2026-05-16** — [OpenAI vs Claude vs Gemini API — Real Cost for India MVP 2026](https://rohitraj.tech/en/notes/openai-vs-claude-vs-gemini-api-cost-india-mvp-2026) — A WhatsApp support bot doing 10K conversations a month costs roughly ₹1,250 on Gemini 2.5 Flash, ₹3,800 on GPT-5-mini, and ₹7,200 on Claude 
