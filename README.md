@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-18** — [Hire React Native Developer India 2026: Founding Engineer vs Agency vs Freelance (Real Cost)](https://rohitraj.tech/en/notes/hire-react-native-developer-india-2026) — A founding engineer in India ships your React Native MVP for ₹6–9L in 6 weeks. The same scope from a Bangalore agency quotes ₹22–35L and lan
 - **2026-05-17** — [LangGraph vs CrewAI vs AutoGen: Which Multi-Agent Framework Wins for India MVPs in 2026](https://rohitraj.tech/en/notes/langgraph-vs-crewai-vs-autogen-india-mvp-2026) — LangGraph, CrewAI, and AutoGen all promise the same thing — orchestrate three or four LLM calls into something that feels like an agent. Rea
 - **2026-05-17** — [Drizzle vs Prisma vs TypeORM — Real ORM Pick for India MVP 2026](https://rohitraj.tech/en/notes/drizzle-vs-prisma-vs-typeorm-india-mvp-2026) — A Postgres-backed Next.js MVP shipping in 6 weeks: Drizzle cold-starts in ~40ms on Vercel Mumbai, Prisma at ~280ms (after the engine binary 
 - **2026-05-16** — [Founding Engineer Equity 2026 — How Much to Negotiate (India)](https://rohitraj.tech/en/notes/founding-engineer-equity-percentage-2026) — Carta says 1.5% for hire #1, dropping to 0.33% by hire #5. Pave median is 1%. AI talent pressure pushed the floor up since March 2026. Hones
