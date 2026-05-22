@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-22** — [Hire iOS Developer India 2026: Founding Engineer vs Agency vs Swift Freelancer (Real Cost)](https://rohitraj.tech/en/notes/hire-ios-developer-india-mvp-2026) — A founding engineer in India ships a native iOS MVP in 6–8 weeks for ₹7.5–10.5L fixed — Swift, SwiftUI, TestFlight, both review submissions,
 - **2026-05-21** — [Resend vs SendGrid vs AWS SES for India MVPs in 2026 — Real Cost on 10K Transactional Emails](https://rohitraj.tech/en/notes/resend-vs-sendgrid-vs-aws-ses-india-mvp-2026) — Resend looks the friendliest, SendGrid looks the safest, and AWS SES looks the cheapest. Run a real 10K-email/month India MVP through each a
 - **2026-05-20** — [Hire Flutter Developer India 2026: Founding Engineer vs Agency vs FlutterFlow (Real Cost)](https://rohitraj.tech/en/notes/hire-flutter-developer-india-2026) — A founding engineer in India ships a Flutter MVP in 5–8 weeks for ₹6.5–9.5L fixed. A Bangalore agency quotes ₹24–38L for the same scope and 
 - **2026-05-18** — [Hire React Native Developer India 2026: Founding Engineer vs Agency vs Freelance (Real Cost)](https://rohitraj.tech/en/notes/hire-react-native-developer-india-2026) — A founding engineer in India ships your React Native MVP for ₹6–9L in 6 weeks. The same scope from a Bangalore agency quotes ₹22–35L and lan
