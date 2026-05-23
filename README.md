@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-23** — [Claude Code Plugins in 2026: The Context-Engineering Stack Indie Devs Are Actually Installing](https://rohitraj.tech/en/notes/claude-code-plugins-context-engineering-2026) — Four of today\'s top 15 trending GitHub repos are Claude Code plugins. CodeGraph hit 2,434 stars in 24 hours. Karpathy\'s skills file: 3,372
 - **2026-05-23** — [PostHog vs Mixpanel vs Amplitude — Best Product Analytics for India MVP (2026)](https://rohitraj.tech/en/notes/posthog-vs-mixpanel-vs-amplitude-india-mvp-2026) — PostHog wins for engineering-led India MVPs because it self-hosts on AWS Mumbai for DPDP compliance and bundles session replay + feature fla
 - **2026-05-22** — [Hire iOS Developer India 2026: Founding Engineer vs Agency vs Swift Freelancer (Real Cost)](https://rohitraj.tech/en/notes/hire-ios-developer-india-mvp-2026) — A founding engineer in India ships a native iOS MVP in 6–8 weeks for ₹7.5–10.5L fixed — Swift, SwiftUI, TestFlight, both review submissions,
 - **2026-05-21** — [Resend vs SendGrid vs AWS SES for India MVPs in 2026 — Real Cost on 10K Transactional Emails](https://rohitraj.tech/en/notes/resend-vs-sendgrid-vs-aws-ses-india-mvp-2026) — Resend looks the friendliest, SendGrid looks the safest, and AWS SES looks the cheapest. Run a real 10K-email/month India MVP through each a
