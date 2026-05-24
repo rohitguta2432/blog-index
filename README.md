@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-24** — [DeepSeek V4 Pro vs Claude Sonnet 4.6 vs GPT-5.5: The Real MVP Cost in 2026](https://rohitraj.tech/en/notes/deepseek-vs-claude-vs-gpt-india-mvp-cost-2026) — DeepSeek made its 75% V4 Pro discount permanent on 2026-05-22 — output tokens now sit at $0.87/M, roughly 34× below GPT-5.5 and 28× below Claude Sonnet 4.6
 - **2026-05-23** — [Claude Code Plugins in 2026: The Context-Engineering Stack Indie Devs Are Actually Installing](https://rohitraj.tech/en/notes/claude-code-plugins-context-engineering-2026) — Four of today\'s top 15 trending GitHub repos are Claude Code plugins. CodeGraph hit 2,434 stars in 24 hours. Karpathy\'s skills file: 3,372
 - **2026-05-23** — [PostHog vs Mixpanel vs Amplitude — Best Product Analytics for India MVP (2026)](https://rohitraj.tech/en/notes/posthog-vs-mixpanel-vs-amplitude-india-mvp-2026) — PostHog wins for engineering-led India MVPs because it self-hosts on AWS Mumbai for DPDP compliance and bundles session replay + feature fla
 - **2026-05-22** — [Hire iOS Developer India 2026: Founding Engineer vs Agency vs Swift Freelancer (Real Cost)](https://rohitraj.tech/en/notes/hire-ios-developer-india-mvp-2026) — A founding engineer in India ships a native iOS MVP in 6–8 weeks for ₹7.5–10.5L fixed — Swift, SwiftUI, TestFlight, both review submissions,
