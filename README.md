@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-27** — [Build a Secure MCP Server in TypeScript: The Post-Copilot Defense Playbook (2026)](https://rohitraj.tech/en/notes/secure-mcp-server-typescript-2026) — Microsoft Copilot Cowork was exfiltrating SharePoint and OneDrive files via a 5-line prompt injection hidden inside an 81-line skill file — 
 - **2026-05-26** — [This Week in AI Dev: DeepSeek's Permanent 75% Cut, GitHub Auto-Routing, Gemini Managed Agents (Week 22 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-22) — Six ships from Week 22 of 2026 that change how you build with AI: DeepSeek V4 Pro locks in a 75% price cut, Copilot auto-routes models, Goog
 - **2026-05-25** — [Gemini CLI Shuts Down June 18, 2026: Antigravity CLI Migration + 4 Alternatives Worth Switching To](https://rohitraj.tech/en/notes/gemini-cli-to-antigravity-migration-alternatives-2026) — Google is killing Gemini CLI for free, Pro, and Ultra users on June 18, 2026 — 24 days from today. The replacement, Antigravity CLI (agy), i
 - **2026-05-24** — [DeepSeek V4 Pro vs Claude Sonnet 4.6 vs GPT-5.5: The Real MVP Cost in 2026](https://rohitraj.tech/en/notes/deepseek-vs-claude-vs-gpt-india-mvp-cost-2026) — DeepSeek made its 75% V4 Pro discount permanent on 2026-05-22 — output tokens now sit at $0.87/M, roughly 34× below GPT-5.5 and 28× below Claude Sonnet 4.6
