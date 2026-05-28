@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-05-28** — [Claude Opus 4.8 vs 4.7 for Developers: What Changed and Should You Upgrade (2026)](https://rohitraj.tech/en/notes/claude-opus-4-8-vs-4-7-developers-2026) — Anthropic shipped Claude Opus 4.8 on May 28, 2026 — agentic coding jumps 64.3% to 69.2%, it is around 4x less likely to let a code flaw pass
 - **2026-05-27** — [Build a Secure MCP Server in TypeScript: The Post-Copilot Defense Playbook (2026)](https://rohitraj.tech/en/notes/secure-mcp-server-typescript-2026) — Microsoft Copilot Cowork was exfiltrating SharePoint and OneDrive files via a 5-line prompt injection hidden inside an 81-line skill file — 
 - **2026-05-26** — [This Week in AI Dev: DeepSeek's Permanent 75% Cut, GitHub Auto-Routing, Gemini Managed Agents (Week 22 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-22) — Six ships from Week 22 of 2026 that change how you build with AI: DeepSeek V4 Pro locks in a 75% price cut, Copilot auto-routes models, Goog
 - **2026-05-25** — [Gemini CLI Shuts Down June 18, 2026: Antigravity CLI Migration + 4 Alternatives Worth Switching To](https://rohitraj.tech/en/notes/gemini-cli-to-antigravity-migration-alternatives-2026) — Google is killing Gemini CLI for free, Pro, and Ultra users on June 18, 2026 — 24 days from today. The replacement, Antigravity CLI (agy), i
