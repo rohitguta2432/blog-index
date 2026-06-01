@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-01** — [Claude Code Dynamic Workflows: A Hands-On Guide for Developers (2026)](https://rohitraj.tech/en/notes/claude-code-dynamic-workflows-guide-2026) — Anthropic shipped dynamic workflows in Claude Code on May 28, 2026 — a JavaScript script Claude writes to orchestrate up to 1,000 subagents 
 - **2026-05-31** — [OpenRouter vs LiteLLM vs Portkey: Which LLM Gateway for Your AI MVP? (2026)](https://rohitraj.tech/en/notes/openrouter-vs-litellm-vs-portkey-india-mvp-2026) — OpenRouter raised a $113M Series B on May 28, 2026 (led by CapitalG) — proof the LLM-gateway layer is now core infrastructure. But which one
 - **2026-05-29** — [AI-Generated Code Anti-Patterns: 9 Production Bugs Hiding in Vibe-Coded Apps (2026)](https://rohitraj.tech/en/notes/ai-generated-code-anti-patterns-fixes-2026) — AI coding agents produce roughly 1.7x more issues than human-written code (CodeRabbit, Dec 2025), and AI-generated code drove 35 new CVEs in
 - **2026-05-28** — [Claude Opus 4.8 vs 4.7 for Developers: What Changed and Should You Upgrade (2026)](https://rohitraj.tech/en/notes/claude-opus-4-8-vs-4-7-developers-2026) — Anthropic shipped Claude Opus 4.8 on May 28, 2026 — agentic coding jumps 64.3% to 69.2%, it is around 4x less likely to let a code flaw pass
