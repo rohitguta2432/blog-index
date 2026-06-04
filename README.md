@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-04** — [Cut LLM Token Costs Up to 90% with Context Compression (2026)](https://rohitraj.tech/en/notes/llm-context-compression-cut-token-costs-2026) — Headroom hit #1 on GitHub Trending on June 4, 2026 with a tool that compresses tool outputs, logs, and RAG chunks before they reach the mode
 - **2026-06-02** — [This Week in AI Dev: Claude Opus 4.8, Copilot Goes Token-Metered, MCP's Stateless Next Spec (Week 23 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-23) — Six ships from Week 23 of 2026 that change how you build with AI: Claude Opus 4.8 lands, GitHub Copilot moves to token-metered AI Credits on
 - **2026-06-01** — [Claude Code Dynamic Workflows: A Hands-On Guide for Developers (2026)](https://rohitraj.tech/en/notes/claude-code-dynamic-workflows-guide-2026) — Anthropic shipped dynamic workflows in Claude Code on May 28, 2026 — a JavaScript script Claude writes to orchestrate up to 1,000 subagents 
 - **2026-05-31** — [OpenRouter vs LiteLLM vs Portkey: Which LLM Gateway for Your AI MVP? (2026)](https://rohitraj.tech/en/notes/openrouter-vs-litellm-vs-portkey-india-mvp-2026) — OpenRouter raised a $113M Series B on May 28, 2026 (led by CapitalG) — proof the LLM-gateway layer is now core infrastructure. But which one
