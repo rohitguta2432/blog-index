@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-07** — [Open Notebook vs Khoj vs SurfSense: Best Self-Hosted NotebookLM Alternative (2026)](https://rohitraj.tech/en/notes/open-notebook-vs-khoj-vs-surfsense-notebooklm-2026) — Open Notebook just hit #1 on GitHub Trending — but is it the best self-hosted NotebookLM alternative? Here's how Open Notebook (MIT), Khoj (
 - **2026-06-06** — [AI Agent Memory in 2026: Mem0 vs Zep vs Letta vs MemPalace (Open-Source, Benchmarked)](https://rohitraj.tech/en/notes/open-source-ai-agent-memory-mem0-vs-zep-letta-2026) — Agent memory — not the model — is the 2026 bottleneck. MemPalace just hit 54.1k GitHub stars and shipped v3.4.0 with a 96.6% LongMemEval sco
 - **2026-06-05** — [Claude AI Vulnerability Scanner: Anthropic's Open-Source Code-Security Harness (2026)](https://rohitraj.tech/en/notes/claude-ai-vulnerability-scanner-2026) — Anthropic open-sourced defending-code-reference-harness — a Claude-powered pipeline that finds and patches security bugs in your code — and 
 - **2026-06-04** — [Cut LLM Token Costs Up to 90% with Context Compression (2026)](https://rohitraj.tech/en/notes/llm-context-compression-cut-token-costs-2026) — Headroom hit #1 on GitHub Trending on June 4, 2026 with a tool that compresses tool outputs, logs, and RAG chunks before they reach the mode
