@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-09** — [This Week in AI Dev: Codex Builds Apps, the Open-Weight Frontier Explodes, and Anthropic Meters the Agent SDK (Week 24 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-24) — Week 24 of 2026 in AI dev tools: OpenAI's Codex graduates from coding agent to app builder with Sites and role plugins, three open-weight mo
 - **2026-06-08** — [What Is Harness Engineering? OpenAI’s Agent-First Codex Playbook (2026)](https://rohitraj.tech/en/notes/what-is-harness-engineering-codex-2026) — Harness engineering is the discipline of building the scaffolding — docs, golden rules, custom linters, and agent-to-agent review loops — th
 - **2026-06-07** — [NVIDIA RTX Spark + Windows: What Microsoft’s Local-AI Superchip Means for Developers (2026)](https://rohitraj.tech/en/notes/nvidia-rtx-spark-windows-ai-agents-2026) — NVIDIA and Microsoft unveiled the RTX Spark superchip at Computex 2026 — a 20-core Grace Arm CPU plus a 6,144-core Blackwell RTX GPU and up 
 - **2026-06-07** — [Open Notebook vs Khoj vs SurfSense: Best Self-Hosted NotebookLM Alternative (2026)](https://rohitraj.tech/en/notes/open-notebook-vs-khoj-vs-surfsense-notebooklm-2026) — Open Notebook just hit #1 on GitHub Trending — but is it the best self-hosted NotebookLM alternative? Here's how Open Notebook (MIT), Khoj (
