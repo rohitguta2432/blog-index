@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-10** — [Claude Fable 5: Pricing, the API, and When to Use It vs Opus 4.8 (2026)](https://rohitraj.tech/en/notes/claude-fable-5-developer-guide-2026) — Anthropic shipped Claude Fable 5 on June 9, 2026 — a Mythos-class model at $10/$50 per million tokens, double the Opus 4.8 rate. Here is the
 - **2026-06-09** — [This Week in AI Dev: Codex Builds Apps, the Open-Weight Frontier Explodes, and Anthropic Meters the Agent SDK (Week 24 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-24) — Week 24 of 2026 in AI dev tools: OpenAI's Codex graduates from coding agent to app builder with Sites and role plugins, three open-weight mo
 - **2026-06-08** — [What Is Harness Engineering? OpenAI’s Agent-First Codex Playbook (2026)](https://rohitraj.tech/en/notes/what-is-harness-engineering-codex-2026) — Harness engineering is the discipline of building the scaffolding — docs, golden rules, custom linters, and agent-to-agent review loops — th
 - **2026-06-07** — [NVIDIA RTX Spark + Windows: What Microsoft’s Local-AI Superchip Means for Developers (2026)](https://rohitraj.tech/en/notes/nvidia-rtx-spark-windows-ai-agents-2026) — NVIDIA and Microsoft unveiled the RTX Spark superchip at Computex 2026 — a 20-core Grace Arm CPU plus a 6,144-core Blackwell RTX GPU and up 
