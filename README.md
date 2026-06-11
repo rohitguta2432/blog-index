@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-11** — [How to Run DiffusionGemma Locally: A vLLM Serving Guide for RTX 5090 and H100 (2026)](https://rohitraj.tech/en/notes/run-diffusiongemma-locally-vllm-rtx5090-2026) — A build-focused guide to self-hosting Google\'s DiffusionGemma: the exact vLLM serve command, what each diffusion flag does, how to call it 
 - **2026-06-11** — [DiffusionGemma: Text Diffusion LLMs Explained, and When to Actually Use One (2026)](https://rohitraj.tech/en/notes/diffusiongemma-text-diffusion-llm-guide-2026) — Google open-sourced DiffusionGemma on June 10, 2026 — a 26B MoE that writes a 256-token block in parallel instead of one token at a time, hi
 - **2026-06-10** — [Claude Fable 5: Pricing, the API, and When to Use It vs Opus 4.8 (2026)](https://rohitraj.tech/en/notes/claude-fable-5-developer-guide-2026) — Anthropic shipped Claude Fable 5 on June 9, 2026 — a Mythos-class model at $10/$50 per million tokens, double the Opus 4.8 rate. Here is the
 - **2026-06-09** — [This Week in AI Dev: Codex Builds Apps, the Open-Weight Frontier Explodes, and Anthropic Meters the Agent SDK (Week 24 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-24) — Week 24 of 2026 in AI dev tools: OpenAI's Codex graduates from coding agent to app builder with Sites and role plugins, three open-weight mo
