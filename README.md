@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-14** — [Kimi K2.7-Code vs Claude Opus 4.8 and GPT-5.5: Is the 1T Open Coding Model Worth It? (2026)](https://rohitraj.tech/en/notes/kimi-k2-7-code-vs-claude-opus-gpt-2026) — Moonshot AI dropped Kimi K2.7-Code on June 12, 2026 — a 1T-parameter open-weight coding model that costs $0.95/$4.00 per million tokens, rou
 - **2026-06-13** — [AI Agent Payments in 2026: x402 vs AP2 — How to Let Your Agent Actually Pay](https://rohitraj.tech/en/notes/ai-agent-payments-x402-vs-ap2-2026) — x402 crossed 161M cumulative payments and got picked up by AWS Bedrock AgentCore in May 2026, while Google’s AP2 defines the trust layer abo
 - **2026-06-12** — [OpenCode vs Claude Code vs Cursor: The Best AI Coding Agent in 2026?](https://rohitraj.tech/en/notes/opencode-vs-claude-code-cursor-2026) — OpenCode just became the most-starred AI coding agent on GitHub — 172,198 stars under MIT, with v1.17.4 shipping June 12, 2026. Here is the 
 - **2026-06-11** — [How to Run DiffusionGemma Locally: A vLLM Serving Guide for RTX 5090 and H100 (2026)](https://rohitraj.tech/en/notes/run-diffusiongemma-locally-vllm-rtx5090-2026) — A build-focused guide to self-hosting Google\'s DiffusionGemma: the exact vLLM serve command, what each diffusion flag does, how to call it 
