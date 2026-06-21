@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-21** — [VibeThinker-3B: A 3B Reasoning Model That Rivals 671B Giants (2026)](https://rohitraj.tech/en/notes/vibethinker-3b-tiny-reasoning-model-guide-2026) — Sina Weibo dropped VibeThinker-3B this week — a 3-billion-parameter, MIT-licensed reasoning model that matches DeepSeek V3.2 (671B) on AIME 
 - **2026-06-20** — [DeepSeek V4 Vision: The Cheapest Multimodal API to Ship in Production (2026)](https://rohitraj.tech/en/notes/deepseek-v4-vision-cheapest-multimodal-api-2026) — DeepSeek turned on vision for V4 this week — image understanding inside chat.deepseek.com and the API, hitting the Hacker News front page on
 - **2026-06-19** — [MCP Server Authentication in 2026: OAuth 2.1, Zero-Touch Enterprise OAuth, and What to Actually Ship](https://rohitraj.tech/en/notes/mcp-server-authentication-oauth-guide-2026) — The Model Context Protocol just shipped Enterprise-Managed Authorization — "zero-touch OAuth" — on June 18, 2026, and it changes how you sec
 - **2026-06-18** — [WebMCP Guide 2026: Turn Your Website Into Tools for Browser AI Agents](https://rohitraj.tech/en/notes/webmcp-guide-browser-agent-tools-2026) — Google\'s WebMCP hit a public Chrome 149 origin trial this month, and it quietly changes how AI agents use your site: instead of scraping th
