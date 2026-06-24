@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-24** — [Mistral OCR 4 vs AWS Textract vs Google Document AI: The Cheapest Accurate Document API (2026)](https://rohitraj.tech/en/notes/mistral-ocr-4-vs-textract-google-document-ai-2026) — Mistral shipped OCR 4 on June 23, 2026 — model `mistral-ocr-latest` — and it tops OlmOCRBench at 85.20, handles 170 languages, and costs $4 
 - **2026-06-23** — [Sakana Fugu: The Orchestration Model That Commands Other LLMs (2026)](https://rohitraj.tech/en/notes/sakana-fugu-orchestration-model-guide-2026) — Sakana AI shipped Sakana Fugu on June 22, 2026 — an orchestration model that routes each request across a swappable pool of frontier LLMs be
 - **2026-06-23** — [This Week in AI Dev: Open Weights Catch the Frontier While the Agent Stack Grows Plumbing (Week 26 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-26) — Week 26 of 2026 in AI dev tools: Z.ai's GLM-5.2 open weights match Claude Opus 4.8 and beat GPT-5.5 on coding at a sixth of the cost, MiniMa
 - **2026-06-21** — [VibeThinker-3B: A 3B Reasoning Model That Rivals 671B Giants (2026)](https://rohitraj.tech/en/notes/vibethinker-3b-tiny-reasoning-model-guide-2026) — Sina Weibo dropped VibeThinker-3B this week — a 3-billion-parameter, MIT-licensed reasoning model that matches DeepSeek V3.2 (671B) on AIME 
