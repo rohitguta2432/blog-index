@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-27** — [Gemini Computer Use vs Claude vs OpenAI: Best Browser Agent 2026](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026) — Google baked computer use into Gemini 3.5 Flash on June 24, 2026 — a vision-based agent that clicks, types, and scrolls across browser, mobi
 - **2026-06-26** — [GLM-5.2 vs Claude Opus 4.8: Should You Switch Your Coding Agent? (2026)](https://rohitraj.tech/en/notes/glm-5-2-vs-claude-opus-coding-agent-2026) — Z.ai shipped GLM-5.2 as open weights (MIT) in June 2026, and it matches Claude Opus 4.8 on real coding-agent tasks at a fraction of the per-
 - **2026-06-25** — [Gemini Interactions API: The Migration Guide from generateContent (2026)](https://rohitraj.tech/en/notes/gemini-interactions-api-migration-guide-2026) — Google made the Gemini Interactions API generally available in 2026 and quietly made it the default interface for Gemini models and agents. 
 - **2026-06-24** — [Mistral OCR 4 vs AWS Textract vs Google Document AI: The Cheapest Accurate Document API (2026)](https://rohitraj.tech/en/notes/mistral-ocr-4-vs-textract-google-document-ai-2026) — Mistral shipped OCR 4 on June 23, 2026 — model `mistral-ocr-latest` — and it tops OlmOCRBench at 85.20, handles 170 languages, and costs $4 
