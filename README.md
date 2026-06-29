@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-06-29** — [Best Open-Source Deep Research Agent to Self-Host in 2026 (Onyx vs DeerFlow vs Perplexica)](https://rohitraj.tech/en/notes/best-open-source-deep-research-agent-self-host-2026) — An open-source deep research agent now sits at #1 on DeepResearch Bench — ahead of OpenAI, Gemini, and Perplexity. So you no longer have to 
 - **2026-06-28** — [Microsoft Agent Framework vs LangGraph vs CrewAI: Which to Use Now That AutoGen Is Dead (2026)](https://rohitraj.tech/en/notes/microsoft-agent-framework-vs-langgraph-crewai-2026) — AutoGen is in maintenance mode — Microsoft folded it and Semantic Kernel into the new Microsoft Agent Framework, which hit 1.0 GA in 2026. S
 - **2026-06-27** — [Gemini Computer Use vs Claude vs OpenAI: Best Browser Agent 2026](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026) — Google baked computer use into Gemini 3.5 Flash on June 24, 2026 — a vision-based agent that clicks, types, and scrolls across browser, mobi
 - **2026-06-26** — [GLM-5.2 vs Claude Opus 4.8: Should You Switch Your Coding Agent? (2026)](https://rohitraj.tech/en/notes/glm-5-2-vs-claude-opus-coding-agent-2026) — Z.ai shipped GLM-5.2 as open weights (MIT) in June 2026, and it matches Claude Opus 4.8 on real coding-agent tasks at a fraction of the per-
