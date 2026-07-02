@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-02** — [Baidu Unlimited-OCR: The Open-Source Model That Reads 40+ Page Documents in One Pass (2026)](https://rohitraj.tech/en/notes/baidu-unlimited-ocr-open-model-guide-2026) — Baidu open-sourced Unlimited-OCR on June 22, 2026 (MIT) — a 3B mixture-of-experts model with 500M active params that parses 40+ page documen
 - **2026-07-01** — [Ornith-1.0: The Self-Improving Open-Source Coding Model, Tested (2026)](https://rohitraj.tech/en/notes/ornith-1-self-improving-coding-model-guide-2026) — DeepReinforce shipped Ornith-1.0 on June 25, 2026 — an MIT-licensed family of coding models that learn to write their own agentic scaffold d
 - **2026-06-30** — [This Week in AI Dev: The Local-Agent Stack Went Production-Real (Week 27 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-27) — Week 27 of 2026 in AI dev tools: DeepReinforce's Ornith-1.0 ships MIT-licensed self-scaffolding coding models from 9B to 397B, Qwen 3.6 27B 
 - **2026-06-29** — [Best Open-Source Deep Research Agent to Self-Host in 2026 (Onyx vs DeerFlow vs Perplexica)](https://rohitraj.tech/en/notes/best-open-source-deep-research-agent-self-host-2026) — An open-source deep research agent now sits at #1 on DeepResearch Bench — ahead of OpenAI, Gemini, and Perplexity. So you no longer have to 
