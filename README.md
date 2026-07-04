@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-04** — [Safari MCP Server: Apple\'s Official Debugger vs the Community Tools (2026 Guide)](https://rohitraj.tech/en/notes/safari-mcp-server-web-debugging-guide-2026) — Apple shipped an official Safari MCP server in Safari Technology Preview 247 on July 1, 2026 — 16 built-in tools that let AI coding agents s
 - **2026-07-03** — [Strix: The Open-Source AI Pentester That Proves Every Bug (2026 Guide)](https://rohitraj.tech/en/notes/strix-ai-penetration-testing-agent-guide-2026) — Strix (usestrix/strix) hit #1 on GitHub Trending on July 3, 2026 with +2,137 stars in a day — 32.8k total, Apache 2.0. It runs autonomous AI
 - **2026-07-02** — [Baidu Unlimited-OCR: The Open-Source Model That Reads 40+ Page Documents in One Pass (2026)](https://rohitraj.tech/en/notes/baidu-unlimited-ocr-open-model-guide-2026) — Baidu open-sourced Unlimited-OCR on June 22, 2026 (MIT) — a 3B mixture-of-experts model with 500M active params that parses 40+ page documen
 - **2026-07-01** — [Ornith-1.0: The Self-Improving Open-Source Coding Model, Tested (2026)](https://rohitraj.tech/en/notes/ornith-1-self-improving-coding-model-guide-2026) — DeepReinforce shipped Ornith-1.0 on June 25, 2026 — an MIT-licensed family of coding models that learn to write their own agentic scaffold d
