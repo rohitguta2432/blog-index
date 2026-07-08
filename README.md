@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-08** — [OfficeCLI: Give AI Agents Real Control of Word, Excel & PowerPoint (2026 Guide)](https://rohitraj.tech/en/notes/officecli-ai-agents-office-files-guide-2026) — OfficeCLI is the open-source tool developers are using to let an AI agent actually build Word, Excel and PowerPoint files — not describe the
 - **2026-07-07** — [This Week in AI Dev: The Week Agents Got Cheaper to Run (Week 28 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-28) — Week 28 of 2026 in AI dev tools: Claude Sonnet 5 does Opus-tier agentic work at $2/M input, Alibaba's page-agent controls any web app from o
 - **2026-07-06** — [NVIDIA LocateAnything-3B: The Open Visual Grounding Model That Beats YOLO (2026 Guide)](https://rohitraj.tech/en/notes/nvidia-locateanything-3b-visual-grounding-guide-2026) — NVIDIA quietly shipped LocateAnything-3B on May 26, 2026 — a 3B open-weights vision-language model that turns a plain-English phrase like "t
 - **2026-07-04** — [Safari MCP Server: Apple\'s Official Debugger vs the Community Tools (2026 Guide)](https://rohitraj.tech/en/notes/safari-mcp-server-web-debugging-guide-2026) — Apple shipped an official Safari MCP server in Safari Technology Preview 247 on July 1, 2026 — 16 built-in tools that let AI coding agents s
