@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-10** — [GitLost: The Prompt-Injection Class Every AI Coding Agent Inherits — and How to Defend Yours (2026)](https://rohitraj.tech/en/notes/gitlost-ai-agent-prompt-injection-defense-2026) — On July 7, 2026, researchers tricked GitHub's AI agent into copying a private repo and posting it as a public comment — no code, no credenti
 - **2026-07-09** — [AI Job-Search Agent on Claude Code: Inside the 15k-Star ai-job-search Framework (2026)](https://rohitraj.tech/en/notes/ai-job-search-agent-claude-code-guide-2026) — ai-job-search crossed 15,000 GitHub stars — 5,000+ in one day — as one of 2026's fastest-growing Claude Code workflows. It's not an app; it'
 - **2026-07-08** — [OfficeCLI: Give AI Agents Real Control of Word, Excel & PowerPoint (2026 Guide)](https://rohitraj.tech/en/notes/officecli-ai-agents-office-files-guide-2026) — OfficeCLI is the open-source tool developers are using to let an AI agent actually build Word, Excel and PowerPoint files — not describe the
 - **2026-07-07** — [This Week in AI Dev: The Week Agents Got Cheaper to Run (Week 28 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-28) — Week 28 of 2026 in AI dev tools: Claude Sonnet 5 does Opus-tier agentic work at $2/M input, Alibaba's page-agent controls any web app from o
