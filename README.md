@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-12** — [Stop Your AI Coding Agent Running rm -rf: Command Guardrails Compared (2026)](https://rohitraj.tech/en/notes/ai-agent-command-guardrails-2026) — Destructive Command Guard (dcg) trended on GitHub in July 2026 (Rust, MIT, 2.3k stars) as a sub-millisecond PreToolUse hook that blocks your
 - **2026-07-10** — [GitLost: The Prompt-Injection Class Every AI Coding Agent Inherits — and How to Defend Yours (2026)](https://rohitraj.tech/en/notes/gitlost-ai-agent-prompt-injection-defense-2026) — On July 7, 2026, researchers tricked GitHub's AI agent into copying a private repo and posting it as a public comment — no code, no credenti
 - **2026-07-09** — [AI Job-Search Agent on Claude Code: Inside the 15k-Star ai-job-search Framework (2026)](https://rohitraj.tech/en/notes/ai-job-search-agent-claude-code-guide-2026) — ai-job-search crossed 15,000 GitHub stars — 5,000+ in one day — as one of 2026's fastest-growing Claude Code workflows. It's not an app; it'
 - **2026-07-08** — [OfficeCLI: Give AI Agents Real Control of Word, Excel & PowerPoint (2026 Guide)](https://rohitraj.tech/en/notes/officecli-ai-agents-office-files-guide-2026) — OfficeCLI is the open-source tool developers are using to let an AI agent actually build Word, Excel and PowerPoint files — not describe the
