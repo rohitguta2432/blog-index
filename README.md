@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-15** — [Bonsai 27B: A 27B Model on Your Phone — and the One Benchmark That Collapses (2026)](https://rohitraj.tech/en/notes/bonsai-27b-ternary-quantization-guide-2026) — PrismML shipped 1-bit and ternary builds of Qwen3.6-27B on July 14, 2026 — 5.9 GB for ternary, 3.9 GB for 1-bit, running at 163 tok/s on an 
 - **2026-07-14** — [This Week in AI Dev: The Agent Fleet Grows Up (Week 29 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-29) — Week 29 of 2026 in AI dev tools: OpenAI ships an official plugin that runs Codex from inside Claude Code, a viral teardown shows Claude Code
 - **2026-07-13** — [DeepSeek V4 API Migration Guide: What Breaks on July 24, 2026 (and the 10-Minute Fix)](https://rohitraj.tech/en/notes/deepseek-v4-api-migration-guide-2026) — On July 24, 2026 at 15:59 UTC, DeepSeek fully retires the deepseek-chat and deepseek-reasoner model names — every API call still using them 
 - **2026-07-12** — [Stop Your AI Coding Agent Running rm -rf: Command Guardrails Compared (2026)](https://rohitraj.tech/en/notes/ai-agent-command-guardrails-2026) — Destructive Command Guard (dcg) trended on GitHub in July 2026 (Rust, MIT, 2.3k stars) as a sub-millisecond PreToolUse hook that blocks your
