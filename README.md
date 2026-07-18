@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-18** — [The Anti-AI-Slop Design Skill: How Hallmark Fixes Generic AI UI in 2026](https://rohitraj.tech/en/notes/anti-ai-slop-design-skill-hallmark-guide-2026) — Every site your AI coding agent builds looks the same: Inter font, a purple gradient, six identical cards, a bounce on every hover. Hallmark
 - **2026-07-17** — [Apple SpeechAnalyzer vs Whisper: On-Device Speech-to-Text in 2026](https://rohitraj.tech/en/notes/apple-speechanalyzer-vs-whisper-on-device-stt-2026) — Apple shipped SpeechAnalyzer in iOS 26 and macOS 26 with zero published accuracy numbers. The first rigorous benchmark just landed: 2.12% wo
 - **2026-07-16** — [Inkling 975B: The Open-Weights Model Almost Nobody Should Self-Host (2026)](https://rohitraj.tech/en/notes/inkling-975b-run-locally-vram-guide-2026) — Thinking Machines released Inkling on July 15, 2026 — 975B params, 41B active, Apache 2.0, 1M context, weights on Hugging Face. Every writeu
 - **2026-07-15** — [Bonsai 27B: A 27B Model on Your Phone — and the One Benchmark That Collapses (2026)](https://rohitraj.tech/en/notes/bonsai-27b-ternary-quantization-guide-2026) — PrismML shipped 1-bit and ternary builds of Qwen3.6-27B on July 14, 2026 — 5.9 GB for ternary, 3.9 GB for 1-bit, running at 163 tok/s on an 
