@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-21** — [This Week in AI Dev: Kimi K3 Lands and Cursor Springs a 0-Day (Week 30 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-30) — Week 30 of 2026 split in two: China's labs shipped trillion-parameter frontier models while the tools that run agents got a hard security lo
 - **2026-07-20** — [OmniRoute Review (2026): Is the 20k-Star Free AI Gateway Worth It vs OpenRouter & LiteLLM?](https://rohitraj.tech/en/notes/omniroute-ai-gateway-review-2026) — OmniRoute is the AI gateway that shot past 20,000 GitHub stars in days: one local, MIT-licensed, OpenAI-compatible endpoint that fans out to
 - **2026-07-19** — [MCP Goes Stateless: Migrate Your Server Before the 2026-07-28 Spec](https://rohitraj.tech/en/notes/mcp-stateless-spec-migration-guide-2026) — The MCP 2026-07-28 specification goes final on July 28, 2026, and it rewrites the protocol to be stateless: no more initialize handshake (SE
 - **2026-07-18** — [The Anti-AI-Slop Design Skill: How Hallmark Fixes Generic AI UI in 2026](https://rohitraj.tech/en/notes/anti-ai-slop-design-skill-hallmark-guide-2026) — Every site your AI coding agent builds looks the same: Inter font, a purple gradient, six identical cards, a bounce on every hover. Hallmark
