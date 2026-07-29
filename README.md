@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-07-29** — [OpenAI Codex Security vs Snyk vs Semgrep vs CodeQL: What the New Open-Source Scanner Actually Changes (2026)](https://rohitraj.tech/en/notes/codex-security-vs-snyk-semgrep-codeql-2026) — OpenAI open-sourced Codex Security under Apache-2.0 — a CLI and TypeScript SDK that builds a threat model of your repo, then runs an isolate
 - **2026-07-24** — [Block's Buzz (2026 Guide): Self-Host the Workspace Where AI Agents Are Teammates, Not Bots](https://rohitraj.tech/en/notes/block-buzz-agent-collaboration-platform-guide-2026) — Block released Buzz on July 21, 2026 — an Apache-2.0, self-hostable workspace built on Nostr where AI agents join channels as cryptographica
 - **2026-07-23** — [Gemini 3.6 Flash vs 3.5 Flash-Lite: Which One to Ship — and the Price Hike Nobody Leads With (2026)](https://rohitraj.tech/en/notes/gemini-3-6-flash-vs-3-5-flash-lite-guide-2026) — Google's July 21 drop is an efficiency release, not an intelligence release: Gemini 3.6 Flash scores the same Intelligence Index as 3.5 Flas
 - **2026-07-21** — [This Week in AI Dev: Kimi K3 Lands and Cursor Springs a 0-Day (Week 30 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-30) — Week 30 of 2026 split in two: China's labs shipped trillion-parameter frontier models while the tools that run agents got a hard security lo
