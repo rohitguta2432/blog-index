@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-08-03** — [DeepSeek DSpark in llama.cpp: How to Get 2x Local Inference on V4-Flash-0731 (2026)](https://rohitraj.tech/en/notes/deepseek-dspark-speculative-decoding-llamacpp-2026) — llama.cpp merged DeepSeek V4 DSpark support on August 2, 2026 — the docs still say Qwen3-only. Here are the actual flags, the measured 39.95
 - **2026-07-30** — [This Week in AI Dev: Agent Skills Went GA, Then the Benchmark Landed (Week 31 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-31) — Week 31 of 2026 shipped one story twice. GitHub made agent skills and MCP generally available in Copilot code review, Google added hooks to 
 - **2026-07-29** — [OpenAI Codex Security vs Snyk vs Semgrep vs CodeQL: What the New Open-Source Scanner Actually Changes (2026)](https://rohitraj.tech/en/notes/codex-security-vs-snyk-semgrep-codeql-2026) — OpenAI open-sourced Codex Security under Apache-2.0 — a CLI and TypeScript SDK that builds a threat model of your repo, then runs an isolate
 - **2026-07-24** — [Block's Buzz (2026 Guide): Self-Host the Workspace Where AI Agents Are Teammates, Not Bots](https://rohitraj.tech/en/notes/block-buzz-agent-collaboration-platform-guide-2026) — Block released Buzz on July 21, 2026 — an Apache-2.0, self-hostable workspace built on Nostr where AI agents join channels as cryptographica
