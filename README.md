@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-08-07** — [Cloudflare Computer vs Cloudflare Sandbox: Which Agent Runtime Should You Actually Use? (2026)](https://rohitraj.tech/en/notes/cloudflare-computer-vs-sandbox-agent-guide-2026) — Cloudflare shipped @cloudflare/computer on August 3 and it hit #1 on GitHub trending with 2,802 stars in a day — four months after Sandboxes
 - **2026-08-06** — [TencentDB Agent Memory v2.0 Review: A Self-Hosted Team Memory Hub for AI Agents (2026)](https://rohitraj.tech/en/notes/tencentdb-agent-memory-team-hub-review-2026) — Tencent's Agent Memory hit #1 on GitHub trending this week at 15.3k stars — a self-hosted hub that turns chats, docs, and code into four gov
 - **2026-08-05** — [Shieldstral vs Llama Guard vs OpenAI Moderation API: A Self-Hosted Content Moderation Guide (2026)](https://rohitraj.tech/en/notes/shieldstral-vs-llama-guard-openai-moderation-2026) — Mistral released Shieldstral on August 4, 2026 — a 3B open-weights safety classifier that reads your moderation policy at inference time ins
 - **2026-08-04** — [This Week in AI Dev: Everything Got Smaller, and Six CVEs Turned Out to Be Fake (Week 32 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-32) — Week 32 of 2026 was a compression week. MiniMax-H3 shipped open weights that fall from 123.6 GB to 42.5 GB, Cloudflare doubled Kimi K2.6 con
