@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-08-13** — [This Week in AI Dev: Models Day, Stolen Reasoning, and a $16,000 GPU (Week 33 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-33) — Week 33 of 2026 put three frontier models on the table inside 48 hours — DeepSeek V4 Pro at 1.6T params under MIT, Grok 4.6 one point behind
 - **2026-08-09** — [Prime Agent: The RLM + Continual Harness Guide (And When to Skip It) — 2026](https://rohitraj.tech/en/notes/prime-agent-rlm-continual-harness-guide-2026) — Prime Intellect open-sourced Prime Agent on August 5, 2026 and it hit #1 on GitHub trending with +2,483 stars in 24 hours. It scores 95.5% o
 - **2026-08-07** — [Cloudflare Computer vs Cloudflare Sandbox: Which Agent Runtime Should You Actually Use? (2026)](https://rohitraj.tech/en/notes/cloudflare-computer-vs-sandbox-agent-guide-2026) — Cloudflare shipped @cloudflare/computer on August 3 and it hit #1 on GitHub trending with 2,802 stars in a day — four months after Sandboxes
 - **2026-08-06** — [TencentDB Agent Memory v2.0 Review: A Self-Hosted Team Memory Hub for AI Agents (2026)](https://rohitraj.tech/en/notes/tencentdb-agent-memory-team-hub-review-2026) — Tencent's Agent Memory hit #1 on GitHub trending this week at 15.3k stars — a self-hosted hub that turns chats, docs, and code into four gov
