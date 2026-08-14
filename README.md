@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-08-14** — [DeepSeek Harness vs Claude Code vs Codex CLI: The v0.1 Developer Preview, Honestly — 2026](https://rohitraj.tech/en/notes/deepseek-harness-vs-claude-code-codex-cli-2026) — DeepSeek open-sourced its agent harness on August 13, 2026 under MIT — 572 points on Hacker News in a day. Every page currently ranking for 
 - **2026-08-13** — [This Week in AI Dev: Models Day, Stolen Reasoning, and a $16,000 GPU (Week 33 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-33) — Week 33 of 2026 put three frontier models on the table inside 48 hours — DeepSeek V4 Pro at 1.6T params under MIT, Grok 4.6 one point behind
 - **2026-08-09** — [Prime Agent: The RLM + Continual Harness Guide (And When to Skip It) — 2026](https://rohitraj.tech/en/notes/prime-agent-rlm-continual-harness-guide-2026) — Prime Intellect open-sourced Prime Agent on August 5, 2026 and it hit #1 on GitHub trending with +2,483 stars in 24 hours. It scores 95.5% o
 - **2026-08-07** — [Cloudflare Computer vs Cloudflare Sandbox: Which Agent Runtime Should You Actually Use? (2026)](https://rohitraj.tech/en/notes/cloudflare-computer-vs-sandbox-agent-guide-2026) — Cloudflare shipped @cloudflare/computer on August 3 and it hit #1 on GitHub trending with 2,802 stars in a day — four months after Sandboxes
