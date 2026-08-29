@@ -98,3 +98,11 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 - **2026-05-10** — [Razorpay vs Stripe for Indian MVPs in 2026 — Real Cost on a 100-User Month](https://rohitraj.tech/en/notes/razorpay-vs-stripe-india-mvp-2026) — Razorpay charges 2% on cards and 0% on UPI for Indian MVPs; Stripe charges 4.3% plus GST plus cross-border 3% on the same volume. Here is th
 - **2026-05-09** — [Claude Code vs Hiring a Developer in 2026: $20 CLI or $80K Engineer?](https://rohitraj.tech/en/notes/claude-code-vs-hire-developer-2026) — Claude Code is the strongest agentic coding CLI of 2026. But $20–200/month buys assistance, not a finished product. This is the line between
 - **2026-05-09** — [6-Week MVP Sprint — Week-by-Week Breakdown of What Actually Ships](https://rohitraj.tech/en/notes/6-week-mvp-sprint-week-by-week-breakdown) — Most "6-week MVP" promises are 12-week projects with marketing copy. This is what a real 6-week sprint looks like — week one through week si
+
+---
+
+### 🤝 Work with me
+
+I'm an **AI Consultant · Forward Deployed Engineer** — I embed with teams and ship AI to production: agents, MCP integrations, and LLM features, with evals proving they work.
+
+**→ [rohitraj.tech/en/hire](https://rohitraj.tech/en/hire)**
