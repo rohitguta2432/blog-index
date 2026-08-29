@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-08-29** — [Qwen3.8-Flash-Next vs Qwen3.8-27B: The Local Memory Math Behind the "12GB VRAM" Headline (2026)](https://rohitraj.tech/en/notes/qwen3-8-flash-next-vs-27b-local-memory-2026) — Qwen3.8-Flash-Next needs only 6B active parameters per token, so the internet decided it runs on 12GB of VRAM. It does — but only if you als
 - **2026-08-25** — [This Week in AI Dev: The Price War Reaches Anthropic's Flagship (Week 35 of 2026)](https://rohitraj.tech/en/notes/ai-dev-week-2026-35) — Anthropic's priciest model took 8.0% of its own customers' spend in July while Opus 4.8 took 28.0%. OpenAI extended a discount to November. 
 - **2026-08-24** — [Qwen3.8-27B as Your Local Coding Agent: 24GB Setup, Quant Pick, and Claude Code Wiring (2026)](https://rohitraj.tech/en/notes/qwen3-8-27b-local-coding-agent-claude-code-2026) — Qwen3.8-27B is the first Apache-2.0 model that scores 61.7 on SWE-bench Pro and still fits on one 24GB GPU. Here is the working-developer bu
 - **2026-08-23** — [DeepSeek-V4-Flash-Vision-Exp API Guide: Limits, Pricing, and the 800px Trap (2026)](https://rohitraj.tech/en/notes/deepseek-v4-flash-vision-exp-api-guide-2026) — DeepSeek put image input on its V4-Flash API on August 21, 2026 as deepseek-v4-flash-vision-exp: 284B/13B-active MoE, 1M context, every imag
