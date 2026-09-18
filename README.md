@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-09-18** — [How to Audit an Agent Skill Before You Install It (2026 Playbook)](https://rohitraj.tech/notes/audit-agent-skills-security-claude-code-2026) — Cloudflare, Alibaba and Tencent all shipped official Agent Skills this week, and `npx skills add` now installs to 78 different agents. Snyk 
 - **2026-09-15** — [NVIDIA RTX PRO 5500 Blackwell: What Actually Fits in 84GB for Local LLMs (2026)](https://rohitraj.tech/notes/rtx-pro-5500-blackwell-84gb-local-llm-2026) — NVIDIA quietly listed the RTX PRO 5500 Blackwell: 21,760 CUDA cores, 84GB of ECC GDDR7, 600W, no price yet. The news sites stopped at the sp
 - **2026-09-15** — [DeepSeek V4.1 Flash Hardware Requirements: The 510GB Model Everyone Is Calling 8B (2026)](https://rohitraj.tech/notes/deepseek-v4-1-flash-hardware-requirements-2026) — DeepSeek V4.1 Flash activates 8B parameters per prefill token, so the internet decided it is a small model. The checkpoint is 510.30GB acros
 - **2026-04-25** — [6-Week MVP Tech Stack in 2026 — The Boring Choices That Actually Ship](https://rohitraj.tech/notes/6-week-mvp-tech-stack-2026) — Every "should I use X or Y" debate costs you a week of the sprint. Here is the boring, opinionated, time-tested stack that ships a productio
