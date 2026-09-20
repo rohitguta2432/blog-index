@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-09-20** — [Fractional AI Engineer vs Full-Time Hire: How to Decide (2026)](https://rohitraj.tech/notes/fractional-ai-engineer-vs-hiring-2026) — Every comparison of a fractional AI engineer against a full-time hire is published by someone selling one side of it. This one is written fr
 - **2026-09-19** — [How to Hire a Forward Deployed Engineer (Without the Full-Time Search)](https://rohitraj.tech/notes/forward-deployed-engineer-hiring-process-2026) — Every guide on how to hire a forward deployed engineer is written by someone selling you the placement. This one is written by the person wh
 - **2026-09-18** — [How to Audit an Agent Skill Before You Install It (2026 Playbook)](https://rohitraj.tech/notes/audit-agent-skills-security-claude-code-2026) — Cloudflare, Alibaba and Tencent all shipped official Agent Skills this week, and `npx skills add` now installs to 78 different agents. Snyk 
 - **2026-09-15** — [NVIDIA RTX PRO 5500 Blackwell: What Actually Fits in 84GB for Local LLMs (2026)](https://rohitraj.tech/notes/rtx-pro-5500-blackwell-84gb-local-llm-2026) — NVIDIA quietly listed the RTX PRO 5500 Blackwell: 21,760 CUDA cores, 84GB of ECC GDDR7, 600W, no price yet. The news sites stopped at the sp
