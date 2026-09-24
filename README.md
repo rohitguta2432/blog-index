@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-09-24** — [This Week in AI Dev: Frontier Prices Halved and a 27B Model Fit in 6GB (Week 39 of 2026)](https://rohitraj.tech/notes/ai-dev-week-2026-39) — Anthropic shipped Claude Opus 5.5 and OpenAI shipped GPT-6 Sol ninety minutes later, both at roughly half the old price. The same 48 hours a
 - **2026-09-23** — [Open-Weights Jev Alternatives (2026): Which Decision Model To Actually Ship](https://rohitraj.tech/notes/jev-alternatives-open-weights-decision-models-2026) — TypeSafe shipped Jev on 15 September 2026 and the open-weights clones landed inside a week. Here is the current field benchmarked on the num
 - **2026-09-22** — [Forward Deployed Engineer vs Solutions Engineer vs Consultant: Who Do You Actually Need in 2026?](https://rohitraj.tech/notes/fde-vs-solutions-engineer-vs-consultant-2026) — Every guide comparing a forward deployed engineer to a solutions engineer is published by someone who gets paid when you post a job. So all 
 - **2026-09-21** — [Qwen-Image-2.1 Commercial Use: The License Problem and What to Ship Instead (2026)](https://rohitraj.tech/notes/qwen-image-2-1-commercial-license-alternatives-2026) — Qwen-Image-2.1 shipped on 20 September 2026 with 7B parameters, native 2K output and a real alpha channel \u2014 under a research-only licen
