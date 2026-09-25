@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-09-25** — [Claude Code and AGENTS.md in 2026: Which Instruction File Actually Loads](https://rohitraj.tech/notes/claude-code-agents-md-vs-claude-md-precedence-2026) — Claude Code 2.1.277 added native AGENTS.md support on 18 September 2026 — then loaded it only when a remote feature flag came back on, so te
 - **2026-09-24** — [This Week in AI Dev: Frontier Prices Halved and a 27B Model Fit in 6GB (Week 39 of 2026)](https://rohitraj.tech/notes/ai-dev-week-2026-39) — Anthropic shipped Claude Opus 5.5 and OpenAI shipped GPT-6 Sol ninety minutes later, both at roughly half the old price. The same 48 hours a
 - **2026-09-23** — [Open-Weights Jev Alternatives (2026): Which Decision Model To Actually Ship](https://rohitraj.tech/notes/jev-alternatives-open-weights-decision-models-2026) — TypeSafe shipped Jev on 15 September 2026 and the open-weights clones landed inside a week. Here is the current field benchmarked on the num
 - **2026-09-22** — [Forward Deployed Engineer vs Solutions Engineer vs Consultant: Who Do You Actually Need in 2026?](https://rohitraj.tech/notes/fde-vs-solutions-engineer-vs-consultant-2026) — Every guide comparing a forward deployed engineer to a solutions engineer is published by someone who gets paid when you post a job. So all 
