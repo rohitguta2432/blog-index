@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-09-30** — [GPT-6.1 Sol vs Claude Sonnet 5.5: Which Costs Less for a Coding Agent? (2026)](https://rohitraj.tech/notes/gpt-6-1-sol-vs-claude-sonnet-5-5-coding-agents-2026) — GPT-6.1 Sol and Claude Sonnet 5.5 launched a day apart at the same $2/$10 price. Sol's cheaper cache reads win short agent loops. Its 272K l
 - **2026-09-29** — [Freelance FDE vs Fractional Engineer: A Buyer Decision Guide (2026)](https://rohitraj.tech/notes/freelance-fde-vs-fractional-engineer-2026) — Choose between a bounded FDE project, ongoing fractional ownership and an internal hire using acceptance evidence, availability needs and a 
 - **2026-09-26** — [The Fractional Forward Deployed Engineer Engagement Model: How It Actually Runs (2026)](https://rohitraj.tech/notes/fractional-forward-deployed-engineer-engagement-model-2026) — Every page ranking for fractional forward deployed engineer helps you decide whether to rent one. None of them tells you how the engagement 
 - **2026-09-25** — [Claude Code and AGENTS.md in 2026: Which Instruction File Actually Loads](https://rohitraj.tech/notes/claude-code-agents-md-vs-claude-md-precedence-2026) — Claude Code 2.1.277 added native AGENTS.md support on 18 September 2026 — then loaded it only when a remote feature flag came back on, so te
