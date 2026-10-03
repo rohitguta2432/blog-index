@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-10-03** — [Why AI Pilots Fail to Reach Production: A Release Decision Guide](https://rohitraj.tech/notes/why-ai-pilots-fail-production-2026) — A working demo leaves release questions unanswered. Use a practical decision brief, failure drills and four checkpoints to decide whether yo
 - **2026-09-30** — [GPT-6.1 Sol vs Claude Sonnet 5.5: Which Costs Less for a Coding Agent? (2026)](https://rohitraj.tech/notes/gpt-6-1-sol-vs-claude-sonnet-5-5-coding-agents-2026) — GPT-6.1 Sol and Claude Sonnet 5.5 launched a day apart at the same $2/$10 price. Sol's cheaper cache reads win short agent loops. Its 272K l
 - **2026-09-29** — [Freelance FDE vs Fractional Engineer: A Buyer Decision Guide (2026)](https://rohitraj.tech/notes/freelance-fde-vs-fractional-engineer-2026) — Choose between a bounded FDE project, ongoing fractional ownership and an internal hire using acceptance evidence, availability needs and a 
 - **2026-09-26** — [The Fractional Forward Deployed Engineer Engagement Model: How It Actually Runs (2026)](https://rohitraj.tech/notes/fractional-forward-deployed-engineer-engagement-model-2026) — Every page ranking for fractional forward deployed engineer helps you decide whether to rent one. None of them tells you how the engagement 
