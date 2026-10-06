@@ -7,6 +7,7 @@ Daily-published engineering deep-dives on AI, backend systems, MCP, and shipping
 ## Posts
 
 <!-- BLOG_INDEX_START -->
+- **2026-10-06** — [Hiring a Freelance AI Engineer: Scope and Acceptance Criteria (2026)](https://rohitraj.tech/notes/freelance-ai-engineer-project-scope-2026) — Define the workflow, deliverables and acceptance tests before hiring an AI engineer. A practical buyer guide with a scope template, failure 
 - **2026-10-03** — [Why AI Pilots Fail to Reach Production: A Release Decision Guide](https://rohitraj.tech/notes/why-ai-pilots-fail-production-2026) — A working demo leaves release questions unanswered. Use a practical decision brief, failure drills and four checkpoints to decide whether yo
 - **2026-09-30** — [GPT-6.1 Sol vs Claude Sonnet 5.5: Which Costs Less for a Coding Agent? (2026)](https://rohitraj.tech/notes/gpt-6-1-sol-vs-claude-sonnet-5-5-coding-agents-2026) — GPT-6.1 Sol and Claude Sonnet 5.5 launched a day apart at the same $2/$10 price. Sol's cheaper cache reads win short agent loops. Its 272K l
 - **2026-09-29** — [Freelance FDE vs Fractional Engineer: A Buyer Decision Guide (2026)](https://rohitraj.tech/notes/freelance-fde-vs-fractional-engineer-2026) — Choose between a bounded FDE project, ongoing fractional ownership and an internal hire using acceptance evidence, availability needs and a 
